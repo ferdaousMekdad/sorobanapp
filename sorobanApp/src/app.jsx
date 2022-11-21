@@ -12,7 +12,7 @@ const App =()=>{
             <Content/>          
 
          </div>
-            <Home/>
+            
        
         </div>
         
